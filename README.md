@@ -1,7 +1,7 @@
 # intelligent-vase
 source for arduino mega 2560
 
-displays der humidity, temperature and moisture
+displays humidity, temperature and moisture
 if moisture is to low it activates the waterpump
 
 
@@ -13,4 +13,3 @@ you need
 - 9V block battery
 - lcd module
 - waterpump (in my case a BLANKO model:5-03G3, 3.5-12V/DC 0.21A)
-- 2 buttons (one for manual waterpumping and one for lcd reset)
